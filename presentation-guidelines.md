@@ -11,4 +11,4 @@
 - Technologies utilized
 - List of features automated
 - Requirement Traceability Matrix and Defect Report
-- Thorough application demo (in the case of our P0 BugCatcher the demonstration should include running your Automation Tests)
+- Thorough application demo (in the case of our Foundations BugCatcher Project, the demonstration should include running your Automation Tests)
