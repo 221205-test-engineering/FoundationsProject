@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e595090b-f659-4ce9-abb4-2ae5e0666eb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/src/main/java/com/revature/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavelinDemo/target/classes/com/revature/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/assign-defect.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/defect-status.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/report-defect-negative.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/report-defect-positive.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/login/login-negative.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/login/login-postitive.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/matrix/matrix.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/navigation/navigation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/testcases/testcases.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/DefectReporterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/ManagerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/MatricesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/TestCasesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/defectOverviewPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/runners/FirstPageRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/defect/defect_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/login/neg_pos_login_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/matrix/matrix_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/nav/One_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/testcases/TC_Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JBvvBrz693s8BzNZDvwqjfMw5M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ajax/REV2_Java/Automation_Engineer/Xavier_PerezHall_FoundationsProject/ProjectFoundation1/src/test/java/dev/XPH/features&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/dev/XPH/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FirstPageRunner">
+    <configuration name="Feature: defect-status" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/defect-status.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ProjectFoundation1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: defect-status" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: report-defect-negative" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/report-defect-negative.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ProjectFoundation1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: report-defect-negative" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: report-defect-positive" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/report-defect-positive.feature" />
+      <option name="GLUE" value="dev.XPH.steps.defect" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ProjectFoundation1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: report-defect-positive" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Change Status" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/defect-status.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ProjectFoundation1" />
+      <option name="NAME_FILTER" value="^Change Status$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Change Status$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Change Status" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstPageRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFoundation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.XPH.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.XPH.runners" />
+      <option name="MAIN_CLASS_NAME" value="dev.XPH.runners.FirstPageRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstPageRunner" />
+        <item itemvalue="Cucumber Java.Feature: report-defect-positive" />
+        <item itemvalue="Cucumber Java.Feature: report-defect-negative" />
+        <item itemvalue="Cucumber Java.Feature: defect-status" />
+        <item itemvalue="Cucumber Java.Scenario: Change Status" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e595090b-f659-4ce9-abb4-2ae5e0666eb0" name="Changes" comment="" />
+      <created>1671564525442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671564525442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/dev/XPH/steps/testcases/TC_Impl.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
