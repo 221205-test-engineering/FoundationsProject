@@ -5,42 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e595090b-f659-4ce9-abb4-2ae5e0666eb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/src/main/java/com/revature/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavelinDemo/target/classes/com/revature/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/assign-defect.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/defect-status.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/report-defect-negative.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/defect/report-defect-positive.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/login/login-negative.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/login/login-postitive.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/matrix/matrix.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/navigation/navigation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/features/testcases/testcases.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/DefectReporterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/ManagerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/MatricesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/TestCasesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/pages/defectOverviewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/runners/FirstPageRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/defect/defect_Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/login/neg_pos_login_Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/matrix/matrix_Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/nav/One_impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/XPH/steps/testcases/TC_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.~lock.XPH_FoudnationsProject_Defect Report.xlsx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.~lock.XPH_Foundations_project_Bug-Catcher-Requirements-Traceability-Matrix-Template.xlsx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XPH_FoudnationsProject_Defect Report.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XPH_Foundations_project_Bug-Catcher-Requirements-Traceability-Matrix-Template.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bug-Catcher-Requirements-Traceability-Matrix-Template.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Bug-Catcher-Requirements-Traceability-Matrix-Template.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
